@@ -42,7 +42,7 @@
 
 ---
 
-### Kod zagnieżdżony w tekście
+ ### Kod zagnieżdżony w tekście
 
 print("Hello, World!) w Pythonie
 
